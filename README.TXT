@@ -13,6 +13,6 @@ USER INSTRUCTIONS:
 
 Author: Dominick Milocco
 
-Explanation: Title - "KarelDUI". Basic Karel J. Robot Java program where Karel (the robot sprite) will traverse a maze world and pick up objects deemed "beepers." Karel will run entire maze searching for beepers.
+Explanation: Title - "KarelMaze". Basic Karel J. Robot Java program where Karel (the robot sprite) will traverse a maze world and pick up objects deemed "beepers." Karel will run entire maze searching for beepers.
 Date written: 2/4/14
 User instructions: Open "package" BlueJ project file with BlueJ application. Right click "main Driver" class and click "void main(string args)." Code will then run until completion.
